@@ -1,0 +1,96 @@
+# Scratch 1.x Overview
+
+## Introduction
+
+Scratch 1.x is the first major series of the Scratch programming environment.
+
+Scratch uses graphical programming blocks that can be connected together to create programs without requiring users to type traditional programming code.
+
+## What Is Scratch?
+
+Scratch is a programming environment designed for creating interactive projects.
+
+Projects can include:
+
+- Games
+- Animations
+- Interactive stories
+- Music
+- Art
+- Simulations
+- Educational projects
+
+## Main Parts of Scratch
+
+A Scratch 1.x project is made up of several important components.
+
+### Stage
+
+The Stage is where a project runs and where sprites appear.
+
+### Sprites
+
+Sprites are programmable objects that can move, change appearance, play sounds, and interact with other parts of a project.
+
+### Costumes
+
+Costumes are different appearances that can be assigned to a sprite.
+
+### Sounds
+
+Sounds can be added to projects and played by sprites or scripts.
+
+### Scripts
+
+Scripts are programs made by connecting Scratch blocks together.
+
+### Blocks
+
+Blocks are graphical programming commands. Different blocks perform different actions.
+
+### Variables
+
+Variables store information that can change while a project is running.
+
+## Scratch 1.x Versions
+
+The Scratch 1.x series includes:
+
+- Scratch 1.0
+- Scratch 1.1
+- Scratch 1.2
+- Scratch 1.3
+- Scratch 1.4
+
+Each version introduced changes and improvements, so features should always be documented according to the specific version in which they existed.
+
+## Purpose of This Project
+
+This project is intended to document and preserve information about Scratch 1.x.
+
+The project may contain:
+
+- Historical documentation
+- Interface information
+- Block references
+- Project information
+- Assets
+- Screenshots
+- Version history
+- Recreation files
+
+## Historical Accuracy
+
+Scratch 1.0, 1.1, 1.2, 1.3, and 1.4 were not identical.
+
+Information in this archive should identify the specific Scratch version it applies to whenever possible.
+
+Features from Scratch 1.4 should not automatically be considered features of Scratch 1.0.
+
+## Archive Status
+
+**In preparation**
+
+The Scratch 1.x archive is currently being created.
+
+More files and documentation will be added as the project develops.
